@@ -11,7 +11,6 @@ public class Program {
 
     Scanner scan = new Scanner(System.in);
 
-    double result;
     int quantity;
 
     Product product;
